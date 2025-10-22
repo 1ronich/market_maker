@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@solana/kit": "^2.3.0",
+    "base58-js": "^3.0.3",
+    "buffer": "^6.0.3"
+  }
+}

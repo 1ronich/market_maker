@@ -1,0 +1,5 @@
+.env
+/data
+/storage.go
+/src/backend/wallets.go
+/src/backend/wallets.json
